@@ -1,0 +1,10 @@
+C:\Users\tfaye\Documents\Visual Studio 2013\Projects\Flight Management\Seat Assignment\obj\Debug\Seat_Assignment.Resources.resources
+C:\Users\tfaye\Documents\Visual Studio 2013\Projects\Flight Management\Seat Assignment\obj\Debug\Seat_Assignment.Seat.resources
+C:\Users\tfaye\Documents\Visual Studio 2013\Projects\Flight Management\Seat Assignment\obj\Debug\Flight Booking Management.vbproj.GenerateResource.Cache
+C:\Users\tfaye\Documents\Visual Studio 2013\Projects\Flight Management\Seat Assignment\bin\Debug\Seat Assignment.exe.config
+C:\Users\tfaye\Documents\Visual Studio 2013\Projects\Flight Management\Seat Assignment\bin\Debug\Seat Assignment.exe
+C:\Users\tfaye\Documents\Visual Studio 2013\Projects\Flight Management\Seat Assignment\bin\Debug\Seat Assignment.pdb
+C:\Users\tfaye\Documents\Visual Studio 2013\Projects\Flight Management\Seat Assignment\bin\Debug\Seat Assignment.xml
+C:\Users\tfaye\Documents\Visual Studio 2013\Projects\Flight Management\Seat Assignment\obj\Debug\Seat Assignment.exe
+C:\Users\tfaye\Documents\Visual Studio 2013\Projects\Flight Management\Seat Assignment\obj\Debug\Seat Assignment.xml
+C:\Users\tfaye\Documents\Visual Studio 2013\Projects\Flight Management\Seat Assignment\obj\Debug\Seat Assignment.pdb
